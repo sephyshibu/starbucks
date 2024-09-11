@@ -158,10 +158,11 @@ nav{
 
 
 .red-section{
-    display: flexbox;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
     justify-content: center;
     align-items: center;
-    padding:60px 90px;
+    padding: 60px 90px;
     
    
 }
@@ -235,10 +236,11 @@ nav{
     
 }
 .darkred-section{
-    display: flexbox;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding:60px 90px;
+    padding: 60px 90px;
     
 }
 
@@ -326,10 +328,11 @@ nav{
 
 
 .green-section{
-    display: flexbox;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
     justify-content: center;
     align-items: center;
-    padding:60px 90px;
+    padding: 60px 90px;
     
    
 }
@@ -405,10 +408,11 @@ nav{
     
 }
 .yellow-section{
-    display: flexbox;
+   display: flex;
+    flex-direction: column; /* Stack items vertically */
     justify-content: center;
     align-items: center;
-    padding:90px 80px;
+    padding: 60px 90px;
     
 }
 
@@ -498,10 +502,11 @@ nav{
 
 
 .pink-section{
-    display: flexbox;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
     justify-content: center;
     align-items: center;
-    padding:60px 90px;
+    padding: 60px 90px;
     
    
 }
@@ -580,10 +585,11 @@ nav{
     
 }
 .light-section{
-    display: flexbox;
+   display: flex;
+    flex-direction: column; /* Stack items vertically */
     justify-content: center;
     align-items: center;
-    padding:90px 80px;
+    padding: 60px 90px;
     
 }
 
